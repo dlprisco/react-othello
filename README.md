@@ -1,7 +1,13 @@
 # React-Othello
 
-<h1 align="center">This project was bootstrapped with <a href="https://github.com/facebook/create-react-app" target="_blank">Create React App</a>.</h1>
-
+<br>
+<br>
+<h2 align="center">This project was bootstrapped with <a href="https://github.com/facebook/create-react-app" target="_blank">Create React App</a>.</h2>
+<p align="center">
+  <a href="https://reactjs.org/" rel="noopener" target="_blank"> <img src="https://reactjs.org/favicon.ico"></a></p>
+</p>
+<br>
+<br>
 <div align="center">
  <img src="src/assets/othello.gif" alt="othello-gif">
 </div>
