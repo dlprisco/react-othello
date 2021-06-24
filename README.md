@@ -1,4 +1,4 @@
-# React-Othello
+# react-othello
 
 <br>
 <br>
