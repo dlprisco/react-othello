@@ -1,9 +1,10 @@
 # React-Othello
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">This project was bootstrapped with <a href="https://github.com/facebook/create-react-app" target="_blank">Create React App</a>.</h1>
 
-
-![image 4](src/assets/othello.gif)
+<div align="center">
+ <img src="src/assets/othello.gif" alt="othello-gif">
+</div>
 
 ## Available Scripts
 
