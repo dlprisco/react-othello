@@ -1,0 +1,9 @@
+div.board {
+  height: 600px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin: auto;
+  border: 1px solid #000;
+}

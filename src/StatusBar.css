@@ -1,0 +1,45 @@
+div.status {
+  width: 300px;
+  margin: auto;
+  display: flex;
+  margin-top: 20px;
+  background: teal;
+}
+
+div.status > div {
+  width: 100%;
+  border: 3.5px outset rgb(0, 0, 0);
+  background-color: white;
+  padding: 5px;
+  display: flex;
+}
+
+div.status .status-black {
+  text-align: right;
+}
+
+div.arrow {
+  visibility: hidden;
+  margin: auto;
+}
+
+div.active > div.arrow {
+  visibility: visible;
+}
+
+div.circle {
+  height: 100%;
+  width: 15%;
+  border-radius: 50%;
+  margin: auto;
+}
+
+div.circle.white {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 2px solid #000;
+}
+
+div.circle.black {
+  background-color: rgba(0, 0, 0);
+  border: 2px solid #000;
+}
